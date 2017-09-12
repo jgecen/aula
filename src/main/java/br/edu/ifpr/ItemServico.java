@@ -1,6 +1,6 @@
 package br.edu.ifpr;
 
-public class ItemServico extends ItemAbstract implements Item {
+public class ItemServico extends ItemAbstract {
 
 	private static final double ISS = 0.025;
 	

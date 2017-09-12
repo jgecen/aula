@@ -1,6 +1,6 @@
 package br.edu.ifpr;
 
-public class ItemProduto extends ItemAbstract implements Item {
+public class ItemProduto extends ItemAbstract {
 
 	private static final double ICMS = 0.10;
 	
